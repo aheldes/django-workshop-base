@@ -52,3 +52,17 @@ Output 3: `192575.77355635`
 ('ocean_proximity_ISLAND', 'ISLAND'),
 ('ocean_proximity_NEAR BAY', 'NEAR BAY'),
 ('ocean_proximity_NEAR OCEAN', 'NEAR OCEAN')
+
+----
+
+{
+        "longitude": -122.23,
+        "latitude": 37.88,
+        "housing_median_age": 41.0,
+        "total_rooms": 880.0,
+        "total_bedrooms": 129.0,
+        "population": 322.0,
+        "households": 126.0,
+        "median_income": 8.3252,
+        "ocean_proximity": 1
+    }
